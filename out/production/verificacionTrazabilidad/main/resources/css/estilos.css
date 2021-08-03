@@ -1,0 +1,48 @@
+vbox{
+    -fx-background-color: black;
+}
+
+menubar{
+    -fx-background-color: yellow;
+}
+
+#carenaLabel{
+    -fx-font-size: 13;
+    -fx-padding: 5;
+    -fx-background-color: #e83c47;
+    -fx-border-color: #972129;
+    -fx-text-fill: white;
+}
+#anmatLabel{
+    -fx-font-size: 13;
+    -fx-padding: 5;
+    -fx-background-color: #e83c47;
+    -fx-border-color: #972129;
+    -fx-text-fill: white;
+}
+
+
+#carenaBoton{
+    -fx-font-family: "Lucida Console";
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+    -fx-border-radius: 8;
+    -fx-min-width: 200px;
+    -fx-min-height: 30px;
+}
+#anmatBoton{
+    -fx-font-family: "Lucida Console";
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+    -fx-border-radius: 8;
+    -fx-min-width: 200px;
+}
+
+#run{
+    -fx-font-size: 20;
+}
+
+.root{
+    -fx-padding: 10;
+
+}
